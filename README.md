@@ -7,7 +7,7 @@
 SSH access to your printer and run:
 (Acesse sua impressora via SSH e execute este comando:)
 ```sh
-(cd ~ && git clone https://github.com/trevos3d/K1-USB-Cam.git && cd K1-USB-Cam && chmod +x *.sh && ./install.sh)
+(cd ~ && git clone https://github.com/MzTechnology97/K1-USB-Cam.git && cd K1-USB-Cam && chmod +x *.sh && ./install.sh)
 ```
 
 Chose Single or dual Camera installation.
