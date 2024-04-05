@@ -64,4 +64,5 @@ When finish, you will can see something like this on your dashboard.
 
 # Thanks to
 
-- [Kimmo Saari / Kirbo](https://github.com/Kirbo) - For the base to build this project  
+- [Kimmo Saari / Kirbo](https://github.com/Kirbo) - For the base to build this project
+- [trevos3d](https://github.com/trevos3d)
