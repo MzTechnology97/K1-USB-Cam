@@ -2,7 +2,7 @@
 
 install_packages() {
     echo -e "\n$msg\nInstalling required packages...\n"
-    opkg install mjpg-streamer mjpg-streamer-input-uvc mjpg-streamer-output-http
+    opkg install mjpg-streamer mjpg-streamer-input-uvc mjpg-streamer-output-http mjpg-streamer-input-http
     echo "Packages installed successfully."
 }
 
